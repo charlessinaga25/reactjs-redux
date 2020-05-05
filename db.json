@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Afif Baswedan",
+      "alamat": "Pekalongan",
+      "umur": 22,
+      "nohp": "081293239165"
+    },
+
+    {
+      "id": 2,
+      "nama": "Rizal Abu Bakri",
+      "alamat": "Demak",
+      "umur": 21,
+      "nohp": "089929104348"
+    },
+
+    {
+      "id": 3,
+      "nama": "Sandy Pas Band",
+      "alamat": "Jakarta",
+      "umur": 31,
+      "nohp": "081282829301"
+    },
+
+    {
+      "id": 4,
+      "nama": "Charles Sinaga",
+      "alamat": "Bekasi",
+      "umur": 25,
+      "nohp": "081291932840"
+    },
+
+    {
+      "id": 5,
+      "nama": "Rio Ramando",
+      "alamat": "Banjarmasin",
+      "umur": 30,
+      "nohp": "0811923019"
+    },
+
+    {
+      "id": 6,
+      "nama": "Indi Barbar",
+      "alamat": "Semarang",
+      "umur": 23,
+      "nohp": "081293930021"
+    },
+
+    {
+      "id": 7,
+      "nama": "Jajang Miharjang",
+      "alamat": "Jombang",
+      "umur": 23,
+      "nohp": "081327501923"
+    },
+
+    {
+      "id": 8,
+      "nama": "Boni Dorus",
+      "alamat": "Lombok",
+      "umur": 19,
+      "nohp": "081234556684"
+    },
+
+    {
+      "id": 9,
+      "nama": "Siswanto Ari",
+      "alamat": "Kebumen",
+      "umur": 21,
+      "nohp": "0812299019283"
+    },
+
+    {
+      "id": 10,
+      "nama": "Tiny Offlaner",
+      "alamat": "Magelang",
+      "umur": 26,
+      "nohp": "0812930220194"
+    },
+
+    {
+      "id": 11,
+      "nama": "Roman Ungu",
+      "alamat": "Solo",
+      "umur": 28,
+      "nohp": "081277826780"
+    },
+
+    {
+      "id": 12,
+      "nama": "Grober Kurfust",
+      "alamat": "Makasar",
+      "umur": 28,
+      "nohp": "081268754231"
+    }
+  ] 
+}
